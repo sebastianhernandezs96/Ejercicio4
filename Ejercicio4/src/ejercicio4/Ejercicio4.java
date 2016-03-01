@@ -16,6 +16,12 @@ public class Ejercicio4 {
      */
     public static void main(String[] args) {
         System.out.println("Hola mundo");
+        System.out.println("Ejercicio 4: ");
+        int res;
+        int a = 4;
+        int b = 12;
+        res = a+b;
+        System.out.println("se suma 4+12 ="+ res);
     }
     
 }
