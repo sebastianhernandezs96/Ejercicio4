@@ -26,6 +26,10 @@ public class Ejercicio4 {
         System.out.println("-------------Resta-------------");
         res = a-b;
         System.out.println("se resta 4-12 = "+ res);
+        System.out.println("------------------------------------");
+        System.out.println("-------------Multiplicacion------------------");
+        res = a*b;
+        System.out.println("se multiplica 4*12 = "+ res);
     }
     
 }
